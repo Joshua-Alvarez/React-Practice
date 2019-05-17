@@ -1,5 +1,3 @@
-console.log('App.js is running!')
-
 // create app object title/subtitle
 // user title/subtitle in the template
 // render template
